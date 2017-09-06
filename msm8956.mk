@@ -236,7 +236,7 @@ PRODUCT_PACKAGES += \
 
 # Sensors
 PRODUCT_PACKAGES += \
-    sensors.msm8952
+     android.hardware.sensors@1.0-impl
 
 # Sound trigger
 PRODUCT_COPY_FILES += \
